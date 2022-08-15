@@ -21,7 +21,7 @@ base_url = 'https://' + tenant + '.tapis.io'
 username = input('Username: ')
 # Enter Tapis password. Example: trainingXX
 password = getpass.getpass(prompt='Password: ', stream=None)
-# Enter VM password given in google doc
+# Enter VM password given in the google doc
 password_vm = getpass.getpass(prompt='Password for VM: ', stream=None)
 # IP address of VM 
 host = input('Host: ')
