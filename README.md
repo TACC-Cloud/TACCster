@@ -1,24 +1,29 @@
-## PEARC 2022 Portable, Scalable, and Reproducible Scientific Computing: from Cloud to HPC
+## TAPIS Days at TACC
 
-## Monday July 11th 2022 Boston, MA
+## Friday August 19th 2022 
 
 ## Welcome
 * [Welcome](./welcome/intro.md)
 
-## Schedule (Eastern Time)
-* 8:30 AM - Introduction to Tapis v3
-* 8:50 AM - Intro to Docker, Jupyter and Singularity, Setting up Jupyter Notebooks
-* 9:20 AM - Tapis Systems, Tapis Applications, Files service
-* 9:50 AM - Break
-* 10:00 PM - Launch Tapis Job on a VM and HPC machine, Results and sharing with collaborators
-* 10:40 PM - Serverless Gateway with Tapis UI 
+## Schedule (Central Time)
+* 10:00 AM - Introduction to Tapis v3
+* 10:20 AM - Running Jupyter Notebooks on Google Colab and installing Tapis SDK
+* 10:40 AM - Break
+* 11:00 AM - Introduction to Docker and Singularituy
+* 11:20 AM - Tapis Systems, Tapis Applications, Files service
+* 11:40 AM - Run Machine Learning jobs on Virtual machine. Analyze and Share results
+* 12:00 PM - Lunch Break
+* 1:00 PM - Serverless Gateway with Tapis UI 
+* 1:20 PM - Introduction to Core Portal and v3 plans
+* 1:40 PM - Tutorial Wrap Q/A
 
 
 Presenters:
+* Joe Stubbs (TACC)
 * Steve Black (TACC)
 * Anagha Jamthe (TACC)
-* Sean Cleveland (UH)
 * Joon Yee Chuah (TACC)
+* Gilbert Curbelo (TACC)
 
 The resources you will be using today are provided by funding from the National Science Foundation:
 
@@ -30,6 +35,14 @@ For this tutorial you will get a training account for a Jetstream Virtual Machin
 ## Workshop Introduction
 * [Introduction](https://docs.google.com/presentation/d/1j8MHB6QqkZPsIBV-SWkTahA1W37FwFIJUGzsTlTisOc/edit?usp=sharing)
 
+## Running Jupyter Notebook using Google Colab
+* [Introduction to Jupyter](./block1/intro-to-jupyter.md)
+  * [Starting a Jupyter Notebook](./block1/intro-to-jupyter.md#starting-up-your-jupyter-notebook-environment)
+  * [Creating a Notebook](./block1/intro-to-jupyter.md#creating-a-notebook)
+
+## Generating a Tapis v3 Token
+* [Generating a Tapis v3 token](./block1/tapis-v3-token.md#generating-a-v3-token)
+
 ## Intro to Docker
   * [Using Docker](./block1/intro-to-docker.md)
   * [What is a container?](./block1/intro-to-docker.md#what-is-a-container)
@@ -38,15 +51,6 @@ For this tutorial you will get a training account for a Jetstream Virtual Machin
   * [Exercise: Initial Setup](./block1/intro-to-docker.md#exercise-initial-setup)
   * [Docker Images, Tags,and Docker Hub](./block1/intro-to-docker.md##lecture-docker-images-and-tags-docker-hub-and-images)
   * [Exercise: Pulling and Running Images](./block1/intro-to-docker.md#pulling-and-running-images)
-
-
-## Intro to Jupyter
-* [Introduction to Jupyter](./block1/intro-to-jupyter.md)
-  * [Starting a Jupyter Notebook](./block1/intro-to-jupyter.md#starting-up-your-jupyter-notebook-environment)
-  * [Creating a Notebook](./block1/intro-to-jupyter.md#creating-a-notebook)
-
-## Generating a Tapis v3 Token
-* [Generating a Tapis v3 token](./block1/tapis-v3-token.md#generating-a-v3-token)
 
 ## Intro to Singularity
 * [Intro to Singularity](./block1/intro-singularity.md)
@@ -68,3 +72,4 @@ For this tutorial you will get a training account for a Jetstream Virtual Machin
   * [Jobs Results](./block4/jobs.md#jobs-results)
   * [Sharing Results](./block4/jobs.md#sharing-results)
 
+## Serverless Gateway with Tapis UI 
