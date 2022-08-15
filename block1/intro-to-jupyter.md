@@ -18,12 +18,3 @@ Step 4: Now you need to install the 3 python library dependences in the colab. A
 
 Step 5: After running the above code you need to restart the runtime - go to the Menu and select Runtime -> Restart runtime or use CTRL+M on the keyboard. Now you can execute the code in the notebook and follow the rest of the tutorial.
 
-## Alternate Method: Creating a Jupyter notebook server with MyBinder
-
-You can access a Jupyter notebook with python scripts demonstrating the usage of the Tapis Streams API with MyBinder too.
-
-Deploying a Jupyter notebook server using MyBinder
-
-Go to the MyBinder notebook link in a web browser.
-
-This should launch a jupyter environment with all the dependencies and notebook for this workshop.
