@@ -25,4 +25,4 @@ nav:
     - Setting up your GitHub Account: block5/github
     - Deploying Tapis UI: block5/deploying
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
