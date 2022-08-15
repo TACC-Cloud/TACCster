@@ -1,13 +1,13 @@
 ## TAPIS Days at TACC
 
-## Friday August 19th 2022 
+ Friday August 19th 2022 
 
 ## Welcome
 * [Welcome](./welcome/intro.md)
 
 ## Schedule (Central Time)
 * 10:00 AM - Introduction to Tapis v3
-* 10:20 AM - Running Jupyter Notebooks on Google Colab and installing Tapis SDK
+* 10:20 AM - Running Jupyter Notebooks on Google Colab and installing Tapis Python SDK
 * 10:40 AM - Break
 * 11:00 AM - Introduction to Docker and Singularituy
 * 11:20 AM - Tapis Systems, Tapis Applications, Files service
@@ -15,7 +15,7 @@
 * 12:00 PM - Lunch Break
 * 1:00 PM - Serverless Gateway with Tapis UI 
 * 1:20 PM - Introduction to Core Portal and v3 plans
-* 1:40 PM - Tutorial Wrap Q/A
+* 1:40 PM - Tutorial Wrap-up Q/A
 
 
 Presenters:
