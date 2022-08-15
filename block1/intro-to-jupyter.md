@@ -1,46 +1,29 @@
-Introduction to the Jupyter Notebook Environment and generating a Tapis v3 Token
+Introduction to the Jupyter Notebook Environment 
 ===
 
 
 Jupyter is an open source project that provides a webapp interface for writing code and documents. Throughout this tutorial, we will be using a Jupyter Notebook environment for development. 
 
-### Starting up your Jupyter Notebook Environment
+## Running Jupyter notebooks using Google Co-lab .
 
-If you have not already done so in the previous section, please run the following to start up your jupyter notebook
-server:
-```
-docker run --rm -it -p 8888:8888 tapis/jupyter
-```
+Step 1: You will login to Google Colab [https://colab.research.google.com] with your google account.
 
-It should have started a single container from the `tapis/jupyter` image, which prints out a url to access the jupyter
-notebook from the browser. You can copy paste this url in your browser and access the jupyter notebook.
+Step 2: Once you login successfully, you should be presented with a dialog and you can select the Github tab and paste in the following URL https://github.com/TACC-Cloud/TACC-Summer-Institute-Tapis-Day.git and then hit the search icon.
 
-Your jupyter notebook server should now be running at `http://127.0.0.1:8888/?token=<my_token>`, where <my_token> is
-from the url printed out during server startup.
-You can reach your server by going to that location in a browser window.
+Step 3: You will then be shown a list of files you can select img_classify.ipynb file and the the far button on the left (Open notebook in new tab).
 
-Once you open a browser with your Jupyter environment, you should see something similar to this: 
+Step 4: Now you need to install the 3 python library dependences in the colab. Add a code cell at the top of the notebook and paste the following in that cell and run it.
 
-<img src="../images/jupyter1.png" class="img-responsive" alt="Jupyter interface"> 
+!pip install tapipy 
 
-**Note**: You can either create a new notebook or upload the example img_classify.ipynb for this tutorial. We recommend using the existing notebook, so it will be easily to follow along.
+Step 5: After running the above code you need to restart the runtime - go to the Menu and select Runtime -> Restart runtime or use CTRL+M on the keyboard. Now you can execute the code in the notebook and follow the rest of the tutorial.
 
-Git clone the tutorial repo in your local computer
+## Alternate Method: Creating a Jupyter notebook server with MyBinder
 
-```
-git clone https://github.com/TACC-Cloud/pearc22-portable-computing-cloud-hpc.git
+You can access a Jupyter notebook with python scripts demonstrating the usage of the Tapis Streams API with MyBinder too.
 
-```
-From your Jupyter notebook, upload the img_classify.ipynb and you will be all set to work through the hands-on exercises.
+Deploying a Jupyter notebook server using MyBinder
 
-**OR**
+Go to the MyBinder notebook link in a web browser.
 
-### Creating a new Notebook.
-
-To create a new notebook for writing code, start by clicking 'New' in the upper right corner. From here, you will be able to choose what type of notebook you want. For this tutorial, we will be using Python 3. 
-
-<img src="../images/jupyter2.png" alt="Jupyter Notebook">
-
-Once you open a notebook, you can write and run python code. To execute a line of code, press `shift + Enter`. 
-
-
+This should launch a jupyter environment with all the dependencies and notebook for this workshop.
