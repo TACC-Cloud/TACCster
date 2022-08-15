@@ -33,14 +33,12 @@ The resources you will be using today are provided by funding from the National 
 For this tutorial you will get a training account for a Jetstream Virtual Machine (VM) with a username and password for that VM. These credentials expire soon after this workshop is complete.
 
 
-## Workshop Introduction
+## Tapis Introduction
 * [Introduction](https://docs.google.com/presentation/d/1j8MHB6QqkZPsIBV-SWkTahA1W37FwFIJUGzsTlTisOc/edit?usp=sharing)
 
 ## Running Jupyter Notebook using Google Colab
 * [Introduction to Jupyter](./block1/intro-to-jupyter.md)
-  * [Starting a Jupyter Notebook](./block1/intro-to-jupyter.md#starting-up-your-jupyter-notebook-environment)
-  * [Creating a Notebook](./block1/intro-to-jupyter.md#creating-a-notebook)
-
+ 
 ## Generating a Tapis v3 Token
 * [Generating a Tapis v3 token](./block1/tapis-v3-token.md#generating-a-v3-token)
 
