@@ -6,7 +6,7 @@ Jupyter is an open source project that provides a webapp interface for writing c
 
 ## Running Jupyter notebooks using Google Co-lab 
 
-Step 1: You will login to Google Colab [https://colab.research.google.com] with your google account.
+Step 1: You will login to [Google Colab] (https://colab.research.google.com) with your google account.
 
 Step 2: Once you login successfully, you should be presented with a dialog and you can select the Github tab and paste in the following URL https://github.com/TACC-Cloud/TACC-Summer-Institute-Tapis-Day.git and then hit the search icon.
 
