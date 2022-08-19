@@ -12,7 +12,7 @@ Step 2: Once you login successfully, you should be presented with a dialog and y
 
 Step 3: You will then be shown a list of files, you can select img_classify.ipynb file and the the far button on the left (Open notebook in new tab).
 
-Step 4: Now you need to install the 3 python library dependences in the colab. Run the first code cell
+Step 4: Now you need to install the Tapis Python SDK aka Tapipy in colab. Run the first code cell
 
 !pip install tapipy 
 
