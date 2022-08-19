@@ -388,4 +388,9 @@ Vanessa Sochat, lead developer of Singularity Hub, also has given a great talk o
 [Singularity](https://docs.google.com/presentation/d/14-iKKUpGJC_1qpVFVUyUaitc8xFSw9Rp3v_UE9IGgjM/pub?start=false&loop=false&delayms=3000&slide=id.g1c1cec989b_0_154)
 
 
+## Additional Resources
+
+For a deeper dive into building and using containers, especially in an HPC environment:
+
+[Containers at TACC](https://containers-at-tacc.readthedocs.io/en/latest/)
 
