@@ -67,7 +67,6 @@ app_def = {
   "id": "img-classify-<userid>",
   "version": "0.0.1",
   "description": "Image classifier run using Singularity in batch mode",
-  "appType": "BATCH",
   "runtime": "SINGULARITY",
   "runtimeOptions": ["SINGULARITY_RUN"],
   "containerImage": "/tmp/img-classify.sif",
