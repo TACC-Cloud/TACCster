@@ -56,7 +56,7 @@ system_def = {
   "id": "tapisv3-exec-<userid>",
   "description": "Tapis v3 execution system",
   "systemType": "LINUX",
-  "host": "129.114.17.113",
+  "host": "<host.ip.address>",
   "effectiveUserId": "${apiUserId}",
   "defaultAuthnMethod": "PASSWORD",
   "rootDir": "/home/<userid>",
