@@ -14,7 +14,7 @@ Step 3: You will then be shown a list of files, you can select img_classify.ipyn
 
 Step 4: Now you need to install the Tapis Python SDK aka Tapipy in colab. Run the first code cell
 
-!pip install tapipy 
+pip install tapipy 
 
 Step 5: After running the above code you need to restart the runtime - go to the Menu and select Runtime -> Restart runtime or use CTRL+M on the keyboard. Now you can execute rest of the code in the notebook and follow the tutorial.
 
