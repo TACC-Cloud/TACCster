@@ -3,11 +3,11 @@ Welcome to Tapis Day Tutorial
 
 ### Join Slack
 
-Please join the TACC Learn Slack:
+Join the channel #taccster-tapis-2022 on TACC Learn Slack:
 
-http://bit.ly/join-tapis 
-
-Join the channel #tapis2022
+### Training accounts
+Make sure you have training account details in your emai shared with us during registration.
+If you have not received one please let the presentation team know.
 
 ### Access Information
 
