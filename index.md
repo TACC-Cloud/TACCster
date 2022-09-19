@@ -15,7 +15,7 @@
 * 3:20 PM - Job Notifications 
 * 3:30 PM - Application Sharing
 * 3:50 PM - Serverless Gateway with Tapis UI 
-* 4:30 PM - Tutorial Wrap-up Q/A
+* 4:20 PM - Tutorial Wrap-up Q/A
 
 
 Presenters:
