@@ -1,6 +1,6 @@
 ## TACCSTER
 
-## Wednesday September 28, 2022 
+## Wednesday, September 28, 2022 
 
 ## Welcome
 * [Welcome](./welcome/intro.md)
