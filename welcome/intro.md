@@ -6,7 +6,7 @@ Welcome to Tapis Day Tutorial
 Join the channel #taccster-tapis-2022 on TACC Learn Slack:
 
 ### Training accounts
-Make sure you have training account details in your emai shared with us during registration.
+Make sure you have training account details in your email (shared with us during registration).
 If you have not received one please let the presentation team know.
 
 ### Access Information
